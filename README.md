@@ -26,6 +26,8 @@ By:
 1. Sign up for Amazon AWS
 2. Get access to Amazon S3
 3. Get access to Amazon Lambda
+  - Create a node.js function that shells out to the ruby app
+  - Lambda offers one as a template called `Demonstrates running an external process using the Node.js child_process module.`
 4. Create an IAM account with access to S3 and Lambda
 5. Install the aws cli tools
 6. Set up an AWS profile in `~/.aws/credentials` for the account created above
